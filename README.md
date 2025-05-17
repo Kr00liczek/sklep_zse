@@ -18,4 +18,5 @@ Wszystkie grafiki odzieży dostępne na stronie zostały przygotowane **ręcznie
 ## Klonowanie repozytorium
 Ze względu na to, że całość działa po stronie lokalnej należy użyć następującej komendy w PowerShellu:
 ```
-git clone https://github.com/Kr00liczek/sklep_zse.git```
+git clone https://github.com/Kr00liczek/sklep_zse.git
+```
